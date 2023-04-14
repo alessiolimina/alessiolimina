@@ -27,7 +27,7 @@
 <br/>
 
 <a href="https://github.com/alessiolimina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessiolimina&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessiolimina&theme=transparent&show_icons=true" />
 </a>
 
 <br/>
