@@ -37,7 +37,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alessio-limina-023027141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alessio%20Limina-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alessio.limina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alessio.limina@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:alessio.limina@pec.it"><img alt="Pec" src="https://img.shields.io/badge/Pec-alessio.limina@pec.it-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [alessiolimina](https://github.com/alessiolimina)
