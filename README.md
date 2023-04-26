@@ -32,11 +32,10 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/alessio-limina-023027141/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alessio%20Limina-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alessio.limina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alessio.limina@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [alessiolimina](https://github.com/alessiolimina)
