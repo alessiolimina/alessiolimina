@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Brave explorer in the fabulous world of coding
-- 🎓 &nbsp; Studying Java Back-End at Develhope, graduated in Ancient Literature at University of Palermo.
+- 🎓 &nbsp; Graduated as Java Developer at Develhope, graduated in Ancient Literature at University of Palermo.
 - 💼 &nbsp; Aspiring Java Back-End Developer 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
